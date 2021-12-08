@@ -1,12 +1,17 @@
 
 crud-laravel-vue
 
-Crud usando vue no front-end e laravel no back-end como uma api de recursos a ser consumida em um SPA
+Crud usando vue no front-end e laravel no back-end como uma api de recursos a ser consumida em um SPA.
 
+1- alterar o arquivo .env para suas necessidade de banco de dados
 
+2- rodar o npm install para instalar as dependencias
 
+3- se não tiver um banco de dados completo, rodar "php artisan migrate:fresh --seed" para preencher o banco
 
+4- registar um usuário
 
+pronto.
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
